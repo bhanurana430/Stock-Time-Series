@@ -47,7 +47,7 @@ To run the notebooks locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/time-series-analysis.git
+git clone https://github.com/bhanurana430/time-series.git
 cd time-series-analysis
 
 # Install dependencies
